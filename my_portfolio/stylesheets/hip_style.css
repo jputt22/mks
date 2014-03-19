@@ -1,3 +1,13 @@
 h1 {
 	color: blue;
 }
+p {
+  color: green;
+}
+em {
+  color: red;
+}
+u {
+  colore: yellow;
+  background-color: red;
+}
