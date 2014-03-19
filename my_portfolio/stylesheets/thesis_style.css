@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+@import url(http://fonts.googleapis.com/css?family=Diplomata);
+@import url(http://fonts.googleapis.com/css?family=Diplomata|Chango);
+h1 {
+  font-family: 'Diplomata|Chango',Arial;
+  text-transform:uppercase;
+}
+h2 {
+  font-family: 'Diplomata',Arial;
+}
+p {
+  font-family: Georgia;
+}
+p.Harsh {
+  font-family: 'Condiment', sans-serif;
+  font-style: italic;
+}
+a:hover {
+  font-size: 10px;
+  color: red;
+}
