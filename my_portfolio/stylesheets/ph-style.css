@@ -2,51 +2,51 @@ h1 {
   color: gray;
 }
 p {
-  
+  color: red;
 }
-p.14 {
-  background-color: red;
+p.a {
+  background-color:#0000cc;
 }
-p.13 {
-  
+p.b {
+  background-color:#0000f5;
 }
-p.12 {
-  
+p.c {
+  background-color:#1f1fff;
 }
-p.11 {
-  
+p.d {
+  background-color:#7070ff;
 }
-p.10 {
-  
+p.e {
+  background-color:#9999ff;
 }
-p.9 {
-  
+p.f {
+  background-color:#c2c2ff;
 }
-p.8 {
-  
+p.g {
+  background-color:#ebebff;
 }
-p.7 {
-  
+p.h {
+  background-color:#008080;
 }
-p.6 {
-  
+p.i {
+  background-color:#ffd6dd;
 }
-p.5 {
-  
+p.j {
+  background-color:#ffadbb;
 }
-p.4 {
-  
+p.k {
+  background-color:#ff8599;
 }
-p.3 {
-  
+p.l {
+  background-color:#ff5c77;
 }
-p.2 {
-  
+p.m {
+  background-color:#ff3355;
 }
-p.1 {
-  
+p.n {
+  background-color:#ff0a33;
 }
-p.0 {
-  
+p.o {
+  background-color:#ff0a33;
 }
 
