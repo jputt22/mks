@@ -5,12 +5,14 @@ h1 {
   background-color:#D9DBDB;
   margin-top: 10x;
   margin-bottom: 10px;
+  line-height: 84px;
 }
 p {
   color: white;
   height: 30px;
   width: 100%;
   padding: 10px;
+  line-height: 22px;
 }
 body {
   background-color:#A6A2A5;
@@ -82,11 +84,11 @@ p.l {
 p.m {
   background-color:#F26DC1;
   margin-top: -3px;
-  margin-bottom: -5px:
+  margin-bottom: -3px:
 }
 p.n {
   background-color:#F067BE;
-  margin-top: -5px;
+  margin-top: -3px;
   margin-bottom: -3px;
 }
 p.o {
